@@ -1,0 +1,30 @@
+{
+  "name": "web3-auth-provider",
+  "version": "0.0.1",
+  "description": "Custom Web3 Signature Auth Provider for Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakel/web3-auth-provider.git"
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "blockchain",
+    "firebase"
+  ],
+  "author": "Fares A. Akel C.",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fakel/web3-auth-provider/issues"
+  },
+  "homepage": "https://github.com/fakel/web3-auth-provider#readme",
+  "dependencies": {
+    "firebase-admin": "^8.10.0",
+    "firebase-functions": "^3.5.0",
+    "web3": "^1.2.6"
+  }
+}
